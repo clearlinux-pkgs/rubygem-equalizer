@@ -4,7 +4,7 @@
 #
 Name     : rubygem-equalizer
 Version  : 0.0.11
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/equalizer-0.0.11.gem
 Source0  : https://rubygems.org/downloads/equalizer-0.0.11.gem
 Summary  : No detailed summary available
