@@ -4,7 +4,7 @@
 #
 Name     : rubygem-equalizer
 Version  : 0.0.11
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/equalizer-0.0.11.gem
 Source0  : https://rubygems.org/downloads/equalizer-0.0.11.gem
 Summary  : No detailed summary available
@@ -64,47 +64,33 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/equalizer-0.0.11.gem
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/Methods/%3d%3d-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/Methods/cdesc-Methods.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/Methods/eql%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/cdesc-Equalizer.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/define_cmp_method-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/define_hash_method-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/define_inspect_method-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/define_methods-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/included-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/Equalizer/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/page-CONTRIBUTING_md.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/equalizer-0.0.11/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.rspec
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.rubocop.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.ruby-gemset
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.ruby-version
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/.yardstick.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/CONTRIBUTING.md
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/devtools.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/flay.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/flog.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/mutant.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/reek.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/rubocop.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/config/yardstick.yml
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/equalizer.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/lib/equalizer.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/lib/equalizer/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/support/config_alias.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/unit/equalizer/included_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/unit/equalizer/methods/eql_predicate_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/unit/equalizer/methods/equality_operator_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/equalizer-0.0.11/spec/unit/equalizer/universal_spec.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/equalizer-0.0.11.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/equalizer-0.0.11.gem
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.rspec
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.rubocop.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.ruby-gemset
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.ruby-version
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/.yardstick.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/CONTRIBUTING.md
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/devtools.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/flay.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/flog.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/mutant.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/reek.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/rubocop.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/config/yardstick.yml
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/equalizer.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/lib/equalizer.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/lib/equalizer/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/support/config_alias.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/unit/equalizer/included_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/unit/equalizer/methods/eql_predicate_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/unit/equalizer/methods/equality_operator_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/equalizer-0.0.11/spec/unit/equalizer/universal_spec.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/equalizer-0.0.11.gemspec
